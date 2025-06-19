@@ -1512,7 +1512,7 @@ beguiled and demoralized by the charms.</p>
   </section>
   <!-- WD-Latest News -->
     <!-- WD-testimonials -->
-  <section class="testimonials-section-two" style="  background-color: aliceblue;">
+  <section class="testimonials-section-two" style="    background-color: aliceblue;">
     <div class="wrap-testimonials over-flow-hidden">
       <div class="tf-container">
         <div class="row">
