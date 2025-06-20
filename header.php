@@ -498,7 +498,9 @@
             <div class="header-ct-left">
               <div id="logo" class="logo">
                 <a href="index.php">
-                  <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:270px" />
+                  <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width: 311px;
+    height: 84px;
+    margin-left: -30px;" />
                 </a>
               </div>
               <div class="categories">
@@ -921,9 +923,9 @@
               </div>
             </div>
             <div class="header-ct-right">
-              <div class="header-customize-item help">
+              <!-- <div class="header-customize-item help">
                 <a href="term-of-use.html"><span class="icon-help-circle"></span></a>
-              </div>
+              </div> -->
               <div class="header-customize-item bell">
                 <span class="icon-bell"></span>
                 <div class="sub-notification">

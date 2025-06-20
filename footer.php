@@ -6,7 +6,7 @@
         <div class="row">
           <div class="col-lg-2 col-md-4">
             <div class="footer-logo">
-              <img src="images/logo.png" alt="images">
+              <img src="images/logo-company/logo-svg.svg" alt="images" style="width:220px">
             </div>
           </div>
           <div class="col-lg-10 col-md-8">
@@ -28,7 +28,7 @@
     <div class="inner-footer">
       <div class="tf-container">
         <div class="row">
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-6 col-md-6">
             <div class="footer-cl-1">
               <div class="icon-infor d-flex aln-center">
                 <div class="icon">
@@ -40,7 +40,7 @@
                   <h6><a href="tel:0123456678">001-1234-88888</a></h6>
                 </div>
               </div>
-              <p>Job Searching Just Got Easy. Use Jobtex to run a hiring site and earn money in the process!</p>
+              <p>Job Searching Just Got Easy. Use brihatisglobal.com to run a hiring site and earn money in the process!</p>
               <div class="ft-icon"> <i class="icon-map-pin"></i> 101 E 129th St, East Chicago, IN 46312, US</div>
               <form action="#" id="subscribe-form">
                 <input type="email" placeholder="Your email address" required="" id="subscribe-email">
@@ -94,7 +94,7 @@
               </ul>
             </div>
           </div>
-          <div class="col-lg-2 col-md-4 col-6">
+          <!-- <div class="col-lg-2 col-md-4 col-6">
             <div class="footer-cl-5">
               <h6 class="ft-title">
                 Download App
@@ -104,7 +104,7 @@
                 <li> <a href="#"><img src="images/review/btn4.png" alt="images"></a></li>
               </ul>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -113,14 +113,14 @@
         <div class="row">
           <div class="col-lg-6 col-md-6">
             <div class="bt-left">
-              <div class="copyright">©2023 Themesflat. All Rights Reserved.</div>
-              <span class="select-language">
+              <div class="copyright">©2025 brihatisglobal.com. All Rights Reserved.</div>
+              <!-- <span class="select-language">
                 <select class="image-select">
                     <option data-thumbnail="images/review/flag.png">English</option>
                     <option data-thumbnail="images/review/flag3.png">USA</option>
                     <option data-thumbnail="images/review/flag2.png">VN</option>
                 </select>
-            </span>
+            </span> -->
             </div>
           </div>
           <div class="col-lg-6 col-md-6">

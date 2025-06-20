@@ -85,7 +85,7 @@
               </form>
             </div> -->
             <div class="group-icon">
-              <!-- <div class="sl-icon-box box">
+              <div class="sl-icon-box box">
                 <div class="icon">
                   <svg class="svg-color" xmlns="http://www.w3.org/2000/svg" width="36" height="40" viewBox="0 0 36 40"
                     fill="none">
@@ -101,9 +101,9 @@
                   </svg>
                 </div>
                 <div class="icon-content">
-                  <h5><a href="jobs-single.html">Delivery Driver</a></h5>
+                  <h5><a href="jobs-single.html">Content Writer </a></h5>
                 </div>
-              </div> -->
+              </div>
               <div class="sl-icon-box box">
                 <div class="icon">
                   <svg xmlns="http://www.w3.org/2000/svg" width="36" height="40" viewBox="0 0 36 40" fill="none">
@@ -249,7 +249,9 @@
         </div>
       </div>
     </div>
-    <div class="overlay"></div>
+    <div class="overlay" style="background: linear-gradient(270deg, rgba(10, 10, 30, 0.7) 0%, rgba(10, 10, 30, 0.3) 100%);
+}
+"></div>
   </section>
   <!-- End wd-slider-->
    <!-- wd-review-job -->
@@ -260,7 +262,7 @@
      
           <h1>Navigating Career Paths</h1>
           <p>Long established fact that a reader distracted by the readable content
-beguiled and demoralized by the charms.</p>
+    beguiled and demoralized by the charms.</p>
         </div>
       </div>
       <div class="row">

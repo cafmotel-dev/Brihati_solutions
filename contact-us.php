@@ -13,7 +13,7 @@
       ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
     /><![endif]-->
 
-  <title>Brihatis Global TF</title>
+  <title>Brihatis Global TF-Contact Us</title>
 
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />

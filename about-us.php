@@ -5,14 +5,14 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/jobtex/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 08:45:30 GMT -->
+
 <head>
   <!-- Basic Page Needs -->
   <!--[if IE
       ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
     /><![endif]-->
 
-  <title>Jobtex TF - about us</title>
+  <title>Brihatis Global Edge Solution TF - about us</title>
 
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -438,5 +438,4 @@
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/jobtex/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 08:45:39 GMT -->
 </html>
