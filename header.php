@@ -15,7 +15,7 @@
 
       <div class="mobile-header">
         <div id="logo" class="logo">
-          <a href="home-2.html">
+          <a href="index.php">
             <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:290px" />
           </a>
         </div>
@@ -497,7 +497,7 @@
           <div class="sticky-area-wrap">
             <div class="header-ct-left">
               <div id="logo" class="logo">
-                <a href="home-01.html">
+                <a href="index.php">
                   <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:320px" />
                 </a>
               </div>

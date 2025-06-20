@@ -59,58 +59,78 @@
       <div id="map" data-map-zoom="16" data-map-scroll="true"></div>
     </div>
   </section> -->
-  <section class="wd-banner-counter">
-    <div class="tf-container st3">
-      <div class="row">
-        <div class="col-lg-12">
-          
-            <div class="group-title-counter stc">
-              <h3>The numbers don't lie</h3>
-              <p>About 800+ new jobs everyday</p>
+ <!-- Contact Us Hero Banner -->
+<!-- Centered Contact Us Section -->
+<section class="contact-section" style="background-color: #86a993; padding: 180px 0; text-align: center;">
+  <div class="tf-container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <div class="contact-header" style="margin-bottom: 40px;">
+          <h2 style="font-size: 36px; font-weight: 700; color: #2c3e50; margin-bottom: 15px;">Get In Touch</h2>
+          <p style="font-size: 18px; color: #555; line-height: 1.6;">
+            Have questions or need assistance? Our team is ready to help you with any inquiries.
+          </p>
+        </div>
+        
+        <!-- <div class="contact-methods" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px; margin-bottom: 40px;">
+          <div class="contact-method" style="flex: 1; min-width: 200px; max-width: 250px;">
+            <div style="background-color: #fff; border-radius: 8px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); height: 100%;">
+              <i class="fas fa-phone-alt" style="font-size: 28px; color: #3498db; margin-bottom: 20px;"></i>
+              <h3 style="font-size: 20px; margin-bottom: 15px; color: #2c3e50;">Call Us</h3>
+              <p style="color: #555; margin-bottom: 15px;">Speak directly with our team</p>
+              <a href="tel:+15551234567" style="color: #3498db; font-weight: 600;">+1 (555) 123-4567</a>
             </div>
-            <div class="group-counter wow fadeInUp">
-              <div class="row align-item-center">
-                  
-                  <div class="col-lg-3 col-md-6">
-                      <div class="wd-counter widget-counter">
-                        <div class="inner wrap-counter">
-                          <h2><span class="counter-number" data-speed="2000" data-to="25"></span><span>M+</span></h2>
-                        </div>
-                        <p class="description">Jobs Available</p>
-                      </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6">
-                      <div class="wd-counter widget-counter">
-                        <div class="inner wrap-counter">
-                          <h2><span class="counter-number" data-speed="2000" data-to="177"></span><span>k+</span></h2>
-                        </div>
-                          <p class="description">New Jobs This Week!</p>
-                      </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6">
-                    <div class="wd-counter widget-counter">
-                        <div class="inner wrap-counter">
-                          <h2><span class="counter-number" data-speed="2000" data-to="298"></span><span>k+</span></h2>
-                        </div>
-                          <p class="description">Companies Hiring</p>
-                    </div>
-                  </div>
-                  <div class="col-lg-3 col-md-6">
-                      <div class="wd-counter widget-counter br-none">
-                        <div class="inner wrap-counter">
-                          <h2><span class="counter-number" data-speed="2000" data-to="5"></span><span>M+</span></h2>
-                        </div>
-                          <p class="description">Candidates</p>
-                      </div>
-                  </div>
-                  
-              </div>
-              <img class="thumb ani4" src="images/partners/thum-1.png" alt="images">
+          </div>
+          
+          <div class="contact-method" style="flex: 1; min-width: 200px; max-width: 250px;">
+            <div style="background-color: #fff; border-radius: 8px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); height: 100%;">
+              <i class="fas fa-envelope" style="font-size: 28px; color: #3498db; margin-bottom: 20px;"></i>
+              <h3 style="font-size: 20px; margin-bottom: 15px; color: #2c3e50;">Email Us</h3>
+              <p style="color: #555; margin-bottom: 15px;">Send us your questions</p>
+              <a href="mailto:info@brihatisglobal.com" style="color: #3498db; font-weight: 600;">info@brihatisglobal.com</a>
+            </div>
+          </div>
+          
+          <div class="contact-method" style="flex: 1; min-width: 200px; max-width: 250px;">
+            <div style="background-color: #fff; border-radius: 8px; padding: 30px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); height: 100%;">
+              <i class="fas fa-map-marker-alt" style="font-size: 28px; color: #3498db; margin-bottom: 20px;"></i>
+              <h3 style="font-size: 20px; margin-bottom: 15px; color: #2c3e50;">Visit Us</h3>
+              <p style="color: #555; margin-bottom: 15px;">Our office location</p>
+              <p style="color: #3498db; font-weight: 600;">123 Business Street, New York, NY 10001</p>
             </div>
           </div>
         </div>
+        
+        <div class="contact-form-container" style="background-color: #fff; border-radius: 8px; padding: 40px; box-shadow: 0 5px 15px rgba(0,0,0,0.05); max-width: 700px; margin: 0 auto;">
+          <h3 style="font-size: 24px; margin-bottom: 25px; color: #2c3e50;">Send Us a Message</h3>
+          <form class="contact-form">
+            <div class="row" style="margin-bottom: 20px;">
+              <div class="col-md-6" style="margin-bottom: 20px;">
+                <input type="text" placeholder="Your Name" style="width: 100%; padding: 12px 15px; border: 1px solid #ddd; border-radius: 4px;">
+              </div>
+              <div class="col-md-6" style="margin-bottom: 20px;">
+                <input type="email" placeholder="Your Email" style="width: 100%; padding: 12px 15px; border: 1px solid #ddd; border-radius: 4px;">
+              </div>
+            </div>
+            <div style="margin-bottom: 20px;">
+              <input type="text" placeholder="Subject" style="width: 100%; padding: 12px 15px; border: 1px solid #ddd; border-radius: 4px;">
+            </div>
+            <div style="margin-bottom: 25px;">
+              <textarea placeholder="Your Message" rows="5" style="width: 100%; padding: 12px 15px; border: 1px solid #ddd; border-radius: 4px;"></textarea>
+            </div>
+            <button type="submit" style="background-color: #3498db; color: white; border: none; padding: 12px 30px; 
+                      font-size: 16px; border-radius: 4px; cursor: pointer; transition: all 0.3s ease; width: 100%;">
+              Send Message
+            </button>
+          </form>
+        </div> -->
       </div>
-  </section>
+    </div>
+  </div>
+</section>
+
+<!-- Numbers/Counter Section (your existing section) -->
+
     <section>
         <div class="tf-container">
             <div class="row">
