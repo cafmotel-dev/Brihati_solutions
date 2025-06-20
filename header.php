@@ -16,7 +16,7 @@
       <div class="mobile-header">
         <div id="logo" class="logo">
           <a href="home-2.html">
-            <img class="site-logo"  src="images/logo.png" alt="Image" />
+            <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:290px" />
           </a>
         </div>
       <a class="title-button-group"><i class="icon-close"></i></a>
@@ -37,38 +37,7 @@
               <ul id="menu-primary-menu" class="menu">
                 <li class="menu-item menu-item-has-children-mobile current-item">
                   <a class="iteam-menu">Home</a>
-                  <ul class="sub-menu-mobile">
-                    <li class="menu-item menu-item-mobile">
-                      <a href="home-01.html">Home Page 01 </a>
-                    </li>
-                    <li class="menu-item menu-item-mobile">
-                        <a href="Home-02.html">Home Page 02 </a>
-                      </li>
-                      <li class="menu-item menu-item-mobile">
-                        <a href="home-03.html">Home Page 03 </a>
-                      </li>
-                      <li class="menu-item menu-item-mobile">
-                        <a href="home-04.html">Home Page 04 </a>
-                      </li>
-                      <li class="menu-item menu-item-mobile">
-                        <a href="home-05.html">Home Page 05 </a>
-                      </li>
-                      <li class="menu-item menu-item-mobile">
-                        <a href="home-06.html">Home Page 06 </a>
-                      </li>
-                      <li class="menu-item menu-item-mobile">
-                        <a href="home-07.html">Home Page 07 </a>
-                      </li>
-                      <li class="menu-item menu-item-mobile">
-                        <a href="home-08.html">Home Page 08 </a>
-                      </li>
-                      <li class="menu-item menu-item-mobile">
-                        <a href="home-09.html">Home Page 09 </a>
-                      </li>
-                      <li class="menu-item menu-item-mobile current-item">
-                        <a href="home-10.html">Home Page 10 </a>
-                      </li>
-                  </ul>
+                  
                 </li>
                 <li class="menu-item menu-item-has-children-mobile">
                   <a class="iteam-menu">Find jobs </a>
@@ -529,7 +498,7 @@
             <div class="header-ct-left">
               <div id="logo" class="logo">
                 <a href="home-01.html">
-                  <img class="site-logo" id="trans-logo" src="images/logo-white.png" alt="Image" />
+                  <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:320px" />
                 </a>
               </div>
               <div class="categories">
