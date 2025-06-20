@@ -5,14 +5,14 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from themesflat.co/html/jobtex/home-10.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 08:44:30 GMT -->
+<!-- Mirrored from themesflat.co/html/Brihatis Global/home-10.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 08:44:30 GMT -->
 <head>
   <!-- Basic Page Needs -->
   <!--[if IE
       ]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"
     /><![endif]-->
 
-  <title>Jobtex TF</title>
+  <title>Brihatis Global TF</title>
 
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -85,7 +85,7 @@
               </form>
             </div> -->
             <div class="group-icon">
-              <div class="sl-icon-box box">
+              <!-- <div class="sl-icon-box box">
                 <div class="icon">
                   <svg class="svg-color" xmlns="http://www.w3.org/2000/svg" width="36" height="40" viewBox="0 0 36 40"
                     fill="none">
@@ -103,7 +103,7 @@
                 <div class="icon-content">
                   <h5><a href="jobs-single.html">Delivery Driver</a></h5>
                 </div>
-              </div>
+              </div> -->
               <div class="sl-icon-box box">
                 <div class="icon">
                   <svg xmlns="http://www.w3.org/2000/svg" width="36" height="40" viewBox="0 0 36 40" fill="none">
@@ -257,7 +257,7 @@
     <div class="tf-container">
       <div class="tf-title style-2">
         <div class="group-title">
-          <h5>Welcome to Jobtex</h5>
+     
           <h1>Navigating Career Paths</h1>
           <p>Long established fact that a reader distracted by the readable content
 beguiled and demoralized by the charms.</p>
@@ -1166,7 +1166,7 @@ beguiled and demoralized by the charms.</p>
   <section class="wd-iconbox flat-row background1">
     <div class="tf-container">
       <div class="title-iconbox">
-        <h1>What can I do with Jobtex?</h1>
+        <h1>What can I do with Brihatis Global?</h1>
         <p>Streamline your hiring process with strategic channels to reach qualified candidates</p>
       </div>
       <div class="row">
@@ -1441,7 +1441,7 @@ beguiled and demoralized by the charms.</p>
           <div class="tf-title style-2 style-4">
             <div class="group-title">
               <h1>Latest News</h1>
-              <p>Jobtex’s Blog provides valuable content to the job seeker</p>
+              <p>Brihatis Global’s Blog provides valuable content to the job seeker</p>
             </div>
           </div>
         </div>
@@ -1494,7 +1494,7 @@ beguiled and demoralized by the charms.</p>
             <div class="box-content">
               <div class="heading">
                 <a href="#" class="tag">Design</a>
-                <h3><a href="blog-detail-side-bar.html">Jobtex Announces Awards Criteria for the Best Places to Work
+                <h3><a href="blog-detail-side-bar.html">Brihatis Global Announces Awards Criteria for the Best Places to Work
                     2023</a></h3>
               </div>
               <ul class="date-post">
@@ -1511,6 +1511,356 @@ beguiled and demoralized by the charms.</p>
     </div>
   </section>
   <!-- WD-Latest News -->
+    <section class="pricing-section">
+        <div class="tf-container st3">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="group-pricing-v1 tf-tab">
+                        <h6>Tailored Pricing Solutions</h6>
+                        <ul class="menu-tab">
+                            <li class="ct-tab active">Monthly</li>
+                            <li class="ct-tab">annual</li>
+                        </ul>
+                        <div class="content-tab">
+                            <div class="inner">
+                                <div class="group-col-3">
+                                    <div class="pricing-box cl3">
+                                        <div class="group-tag">
+                                            <div class="tag1">Basic</div>
+                                            <div class="tag2"> Popular</div>
+                                        </div>
+                                        <div class="pricing">$19.00<span>/month</span></div>
+                                        <ul class="wd-list-icon">
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>30 Job posting</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>3 featured job</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Job displayed for 15 days</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Premium Support 24/7</li>
+                                        </ul>
+                                        <a href="#" class="btn">Browse themes</a>
+                                    </div>
+                                    <div class="pricing-box active cl3">
+                                        <div class="group-tag">
+                                            <div class="tag1">Standard</div>
+                                            <div class="tag2"> Popular</div>
+                                        </div>
+                                        <div class="pricing">$39.00<span>/month</span></div>
+                                        <ul class="wd-list-icon">
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>40 Job posting</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>5 featured job</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Job displayed for 30 days</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Premium Support 24/7</li>
+                                        </ul>
+                                        <a href="#" class="btn">Browse themes</a>
+                                    </div>
+                                    <div class="pricing-box cl3">
+                                        <div class="group-tag">
+                                            <div class="tag1">Extended</div>
+                                            <div class="tag2"> Popular</div>
+                                        </div>
+                                        <div class="pricing">$79.00<span>/month</span></div>
+                                        <ul class="wd-list-icon">
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>50 Job posting</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>10 featured job</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Job displayed for 60 days</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Premium Support 24/7</li>
+                                        </ul>
+                                        <a href="#" class="btn">Browse themes</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="inner">
+                                <div class="group-col-3">
+                                    <div class="pricing-box cl3">
+                                        <div class="group-tag">
+                                            <div class="tag1">Basic</div>
+                                            <div class="tag2"> Popular</div>
+                                        </div>
+                                        <div class="pricing">$19.00<span>/month</span></div>
+                                        <ul class="wd-list-icon">
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>30 Job posting</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>3 featured job</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Job displayed for 15 days</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Premium Support 24/7</li>
+                                        </ul>
+                                        <a href="#" class="btn">Browse themes</a>
+                                    </div>
+                                    <div class="pricing-box active cl3">
+                                        <div class="group-tag">
+                                            <div class="tag1">Standard</div>
+                                            <div class="tag2"> Popular</div>
+                                        </div>
+                                        <div class="pricing">$39.00<span>/month</span></div>
+                                        <ul class="wd-list-icon">
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>40 Job posting</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>5 featured job</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Job displayed for 30 days</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Premium Support 24/7</li>
+                                        </ul>
+                                        <a href="#" class="btn">Browse themes</a>
+                                    </div>
+                                    <div class="pricing-box cl3">
+                                        <div class="group-tag">
+                                            <div class="tag1">Extended</div>
+                                            <div class="tag2"> Popular</div>
+                                        </div>
+                                        <div class="pricing">$79.00<span>/month</span></div>
+                                        <ul class="wd-list-icon">
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>50 Job posting</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>10 featured job</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Job displayed for 60 days</li>
+                                            <li><span class="icon">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"
+                                                        viewBox="0 0 20 20" fill="none">
+                                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                                            d="M0 10C0 4.47715 4.47715 0 10 0C15.5228 0 20 4.47715 20 10C20 15.5228 15.5228 20 10 20C4.47715 20 0 15.5228 0 10Z"
+                                                            fill="#14A077" />
+                                                        <path
+                                                            d="M8.39644 13.8429L5.14644 10.3563C4.95119 10.1468 4.95119 9.80718 5.14644 9.59769L5.85353 8.8391C6.04879 8.62961 6.36539 8.62961 6.56064 8.8391L8.75 11.1878L13.4394 6.1571C13.6346 5.94763 13.9512 5.94763 14.1465 6.1571L14.8536 6.91569C15.0488 7.12516 15.0488 7.46479 14.8536 7.67428L9.10355 13.8429C8.90828 14.0524 8.5917 14.0524 8.39644 13.8429Z"
+                                                            fill="white" />
+                                                    </svg>
+                                                </span>Premium Support 24/7</li>
+                                        </ul>
+                                        <a href="#" class="btn">Browse themes</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- WD-testimonials -->
   <section class="testimonials-section-two" style="    background-color: aliceblue;">
     <div class="wrap-testimonials over-flow-hidden">
@@ -1529,7 +1879,7 @@ beguiled and demoralized by the charms.</p>
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
                   <div class="wd-testimonials">
-                    <p class="description">“Jobtex is allowing us to go through a large number of candidates with
+                    <p class="description">“Brihatis Global is allowing us to go through a large number of candidates with
                       internal limited resources. We are able to do a first screening of candidates so much easier than
                       if we had to meet everyone. We can truly identify and assess a talent pool more efficiently and
                       have our talent ready to start in their new role faster.”</p>
@@ -1578,7 +1928,7 @@ beguiled and demoralized by the charms.</p>
                 </div>
                 <div class="swiper-slide">
                   <div class="wd-testimonials">
-                    <p class="description">“Jobtex is allowing us to go through a large number of candidates with
+                    <p class="description">“Brihatis Global is allowing us to go through a large number of candidates with
                       internal limited resources. We are able to do a first screening of candidates so much easier than
                       if we had to meet everyone. We can truly identify and assess a talent pool more efficiently and
                       have our talent ready to start in their new role faster.”</p>
@@ -1627,7 +1977,7 @@ beguiled and demoralized by the charms.</p>
                 </div>
                 <div class="swiper-slide">
                   <div class="wd-testimonials">
-                    <p class="description">“Jobtex is allowing us to go through a large number of candidates with
+                    <p class="description">“Brihatis Global is allowing us to go through a large number of candidates with
                       internal limited resources. We are able to do a first screening of candidates so much easier than
                       if we had to meet everyone. We can truly identify and assess a talent pool more efficiently and
                       have our talent ready to start in their new role faster.”</p>
@@ -1676,7 +2026,7 @@ beguiled and demoralized by the charms.</p>
                 </div>
                 <div class="swiper-slide">
                   <div class="wd-testimonials">
-                    <p class="description">“Jobtex is allowing us to go through a large number of candidates with
+                    <p class="description">“Brihatis Global is allowing us to go through a large number of candidates with
                       internal limited resources. We are able to do a first screening of candidates so much easier than
                       if we had to meet everyone. We can truly identify and assess a talent pool more efficiently and
                       have our talent ready to start in their new role faster.”</p>
@@ -1737,5 +2087,5 @@ beguiled and demoralized by the charms.</p>
 </body>
 
 
-<!-- Mirrored from themesflat.co/html/jobtex/home-10.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 08:44:30 GMT -->
+<!-- Mirrored from themesflat.co/html/Brihatis Global/home-10.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 06 Jun 2025 08:44:30 GMT -->
 </html>

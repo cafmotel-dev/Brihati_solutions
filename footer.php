@@ -238,15 +238,15 @@
   </footer>
   </div><!-- /.boxed --> 
 
-  <script src="javascript/jquery.min.js"></script>
-  <script src="javascript/swiper-bundle.min.js"></script>
-  <script src="javascript/bootstrap.min.js"></script>
-  <script src="javascript/boostrap-select.min.js"></script>
-  <script src='javascript/jquery.nice-select.min.js'></script>
-  <script src="javascript/countto.js"></script>
-  <script src="javascript/wow.min.js"></script>
-  <script src="javascript/swiper.js"></script>
-  <script src="javascript/plugin.min.js"></script>
-  <script src="javascript/jquery.cookie.js"></script>
-  <script src="javascript/switcher.js"></script>
-  <script src="javascript/main.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/swiper-bundle.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/boostrap-select.min.js"></script>
+  <script src='js/jquery.nice-select.min.js'></script>
+  <script src="js/countto.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/swiper.js"></script>
+  <script src="js/plugin.min.js"></script>
+  <script src="js/jquery.cookie.js"></script>
+  <script src="js/switcher.js"></script>
+  <script src="js/main.js"></script>
