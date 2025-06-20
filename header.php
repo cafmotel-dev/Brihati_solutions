@@ -16,7 +16,7 @@
       <div class="mobile-header">
         <div id="logo" class="logo">
           <a href="index.php">
-            <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:290px" />
+            <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:270px" />
           </a>
         </div>
       <a class="title-button-group"><i class="icon-close"></i></a>
@@ -498,7 +498,7 @@
             <div class="header-ct-left">
               <div id="logo" class="logo">
                 <a href="index.php">
-                  <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:320px" />
+                  <img class="site-logo"  src="images/logo-company/logo-transparent-svg.svg" alt="Image" style="width:270px" />
                 </a>
               </div>
               <div class="categories">
@@ -707,9 +707,15 @@
                 <nav id="main-nav" class="main-nav">
                   <ul id="menu-primary-menu" class="menu">
                     <li class="menu-item  current-item">
-                      <a href="home.php">Home </a>
+                      <a href="index.php">Home </a>
                       
                       
+                    </li>
+                    <li class="menu-item  ">
+                      <a href="contact-us.php">Contact Us</a>  
+                    </li>
+                       <li class="menu-item  ">
+                      <a href="about-us.php">About Us</a>  
                     </li>
                     <li class="menu-item menu-item-has-children">
                       <a href="#">Find jobs </a>
@@ -909,56 +915,7 @@
                       </ul>
                      
                     </li>
-                    <li class="menu-item menu-item-has-children">
-                      <a href="#">Pages</a>
-                      <ul class="sub-menu st1">
-                        <li class="nav-sub">
-                          <a href="#">Shop<span class="icon-keyboard_arrow_right"></span>  </a>
-                          <ul class="nav-sub-menu">
-                           
-                              <li class="nav-menu-item">
-                                <a href="shop.html">Shop List</a>
-                              </li>
-                              <li class="nav-menu-item">
-                                <a href="shop-details.html">Shop Single</a>
-                                </li>
-                                <li class="nav-menu-item">
-                                  <a href="shopping-cart.html">Shopping Cart</a>
-                                </li>
-                                <li class="nav-menu-item">
-                                  <a href="checkout.html">Checkout</a>
-                                </li>
-                          </ul>
-                        </li>
-                        <li class="nav-sub">
-                          <a href="about-us.html">About Us</a>
-
-                        </li>
-                        <li class="nav-sub">
-                          <a href="accordion-page.html">FAQS</a>
-                        </li>
-                        <li class="nav-sub">
-                          <a href="term-of-use.html">Terms Of Use</a>
-                        </li>
-                        <li class="nav-sub">
-                          <a href="pricing.html">Pricing</a>
-                        </li>
-                        <li class="nav-sub">
-                          <a href="login.html">Login</a>
-                        </li>
-                         <li class="nav-sub">
-                          <a href="create-account.html">Create Account</a>
-                        </li>
-                        <li class="nav-sub">
-                          <a href="contact-us.html">Contact Us</a>
-                        </li>
-                        <li class="nav-sub">
-                          <a href="modal.html">Modal</a>
-                        </li>
-                        
-                      </ul>
-
-                    </li>
+                    
                   </ul>
                 </nav>
               </div>
